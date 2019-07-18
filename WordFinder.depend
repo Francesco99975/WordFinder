@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1534537563 source:c:\users\franc\documents\sourcecodes\wordfinder\main.cpp
+	<iostream>
+	<algorithm>
+	"LinkedList.h"
+	"ConsoleColor.h"
+	<fstream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+
+1534710879 c:\users\franc\documents\sourcecodes\wordfinder\linkedlist.h
+	<iostream>
+
+1528996166 c:\users\franc\documents\sourcecodes\wordfinder\consolecolor.h
+	<iostream>
+	<windows.h>
+
