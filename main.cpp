@@ -1,4 +1,7 @@
+#define NOMINMAX
+
 #include <iostream>
+#include <string>
 #include <algorithm>
 #include "LinkedList.h"
 #include "ConsoleColor.h"
